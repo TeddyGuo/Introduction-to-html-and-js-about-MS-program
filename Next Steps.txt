@@ -1,0 +1,54 @@
+Next Steps
+
+This is ONLY the beginning of your journey with web development. Many of the skills you learned here can be used across a wide variety of technologies.
+Mobile Apps
+
+Many cross-platform mobile app frameworks allow you to build a single HTML/JS/CSS application and have it distributed across iOS, Android, Windows Phone and even Blackberry devices. Your web development skills can be put to use immediately building mobile applications.
+
+Want to learn more about Apache Cordova/PhoneGap?
+
+    Here's a Microsoft Virtual Academy session where we explore Apache Cordova and Visual Studio:
+        https://mva.microsoft.com/en-US/training-courses/crossplatform-development-with-visual-studio-8439
+    Here's the keynote from DEVIntersection last year where Kendo UI is used with PhoneGap to build mobile applications:
+        https://channel9.msdn.com/events/DEVintersection/DEVintersection-2015/Building-Hybrid-Mobile-Apps-with-PhoneGap-and-Kendo-UI
+
+Internet of Things (IoT)
+
+Many IoT platforms have opted to use Node.js as one of the native languages supported on the device hardware. If you want to build amazing, IoT apps, you can use your newfound JavaScript skills immediately.
+
+Interested in Arduino??
+
+    Here's a tutorial showing how to build a Node.js application that collects weather information from an Arduino Uno board:
+        http://thinglabs.io/workshop/js/weather/
+
+Interested in Particle Photon?
+
+    This is a video series highlighting how to connect a Photon Weather Station to the cloud:
+        https://channel9.msdn.com/shows/themakershow/ppws01
+
+Intersted in Raspberry Pi?
+
+    Here's a video talking about the new Chakra JavaScript engine powering the Microsoft Edge browser and how you can use it to run Node.js applications on a Raspberry Pi running Windows 10 IoT Core Edition:
+        https://channel9.msdn.com/Shows/codechat/035
+
+Desktop applications
+
+Want to use Electron?
+
+    Here's an interview with the creator of Ionic talking about how you can use his framework with Electron
+        https://channel9.msdn.com/events/Seth-on-the-Road/That-Conference-2015/T039
+
+Frameworks
+
+You have briefly explored some of the most popular frameworks used on the web today. Here on edX, we are continually authoring more courses on the various web frameworks that you can use to build your applications. You are encouraged to go and follow up this course by taking any of these courses that build on the knowledge introduced here.
+
+Bootstrap - https://www.edx.org/course/introduction-bootstrap-tutorial-microsoft-dev203x-0
+
+TypeScript - https://www.edx.org/course/introduction-typescript-microsoft-dev201x-1
+
+jQuery - https://www.edx.org/course/introduction-jquery-microsoft-dev208x-1
+
+CSS
+
+    CSS Introduction - we have developed this CSS course in partnership with the W3C.
+    Advanced CSS Concepts - develop and test device-friendly websites using the power of CSS.
